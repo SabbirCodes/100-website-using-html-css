@@ -30,6 +30,9 @@ nav {
     cursor: pointer;
 }
 
+.menu {
+    display: none;
+}
 .links>ul {
     display: flex;
     list-style: none;
